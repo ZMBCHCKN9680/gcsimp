@@ -149,6 +149,21 @@
         "burst_energy_cost": 40
       }
     },
+    "arlecchino": {
+      "id": 10000092,
+      "key": "arlecchino",
+      "rarity": "QUALITY_ORANGE",
+      "body": "BODY_LADY",
+      "element": "Fire",
+      "weapon_class": "WEAPON_POLE",
+      "icon_name": "UI_AvatarIcon_Arlecchino",
+      "skill_details": {
+        "skill": 10032,
+        "burst": 10017,
+        "attack": 10041,
+        "burst_energy_cost": 80
+      }
+    },
     "ayaka": {
       "id": 10000002,
       "key": "ayaka",
